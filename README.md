@@ -22,6 +22,7 @@ Once the environment is set up, the agent can be trained and tested to predict t
 
 ## License
 
-Copyright (c) 2026 John Zhou
+Copyright (c) 2026 
+jzjzzzzzzz
 
 All rights reserved.
