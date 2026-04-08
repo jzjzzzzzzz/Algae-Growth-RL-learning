@@ -1,6 +1,6 @@
 # env/algae_env.py
 ##################################################
-###### Copyright (c) 2026 John Zhou
+###### Copyright (c) 2026 jzjzzzzzzz
 ###### All rights reserved.
 ##################################################
 
