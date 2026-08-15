@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> **Archived on 2026-08-15.** Maintained simulation, RL, experiment, and analysis
+> work has moved to
+> [Algae Research Toolkit](https://github.com/jzjzzzzzzz/algae-research-toolkit).
+> This repository remains intact as a read-only historical record. See the
+> [migration guide](https://github.com/jzjzzzzzzz/algae-research-toolkit/blob/main/MIGRATION.md).
+
+---
+
 # Algae Growth RL Prediction
 
 This project uses Reinforcement Learning (RL) to simulate and optimize algae growth under varying environmental conditions. By adjusting factors such as light intensity, nutrient levels, ultrasound exposure, and trace element concentration, the goal is to predict and improve algae growth over time.
